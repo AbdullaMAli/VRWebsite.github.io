@@ -1,0 +1,294 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.logo {
+    width: 65px;
+    height: 40px;
+}
+
+.banner {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.heading-top {
+    color: white;
+    font-size: 50px;
+}
+
+.button {
+    color: white;
+    background-color: #1a2137;
+    border-radius: 6px;
+    height: 40px;
+    width: 100px;
+}
+
+.colors {
+    color: #323f4b;
+}
+
+
+
+
+
+
+
+
+.heading-main {
+    color: black;
+    font-size: 30px;
+}
+
+.image {
+    height: 60px;
+    width: 70px;
+    margin-bottom: 10px;
+}
+
+.heading {
+    font-size: 30px;
+    color: #1f2933;
+}
+
+.natural {
+    font-weight: bold;
+}
+
+.para {
+    font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+.outer-div {
+    background-color: #f9fbfe;
+}
+
+.main-heading {
+    color: #1f2933;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.image-third {
+    width: 250px;
+    height: 300px;
+}
+
+.paragraph-3 {
+    font-size: 25px;
+    margin-top: 10px;
+}
+
+
+
+
+
+
+
+
+
+.image-four {
+    width: 300px;
+    height: 300px;
+}
+
+.heading-four {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.para-4 {
+    color: #7b8794;
+    font-size: 10px;
+}
+
+.button {
+    width: 80px;
+    height: 30px;
+    font-size: 10px;
+}
+
+
+
+
+
+
+
+
+
+.image-5 {
+    width: 270px;
+    height: 130px;
+}
+
+.main-heading-5 {
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.heading-5 {
+    color: #959ead;
+    font-size: 12px;
+}
+
+.para-5 {
+    color: #323f4b;
+    font-size: 14px;
+}
+
+.readmore {
+    color: #1754a1;
+    font-weight: bold;
+    font-size: 13px;
+}
+
+.button-5 {
+    background-color: #1754a1;
+    width: 130px;
+}
+
+
+
+
+
+
+
+
+.main-heading-7 {
+    font-weight: bold;
+    font-size: 48px;
+}
+
+.box-1 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 650px;
+}
+
+.text-box {
+    color: white;
+}
+
+.head-1 {
+    font-size: 50px;
+}
+
+.para-1 {
+    font-size: 25px;
+}
+
+.button-7 {
+    background-color: transparent;
+    border-color: white;
+}
+
+.box-2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 650px;
+
+}
+
+.button-1 {
+    background-color: #1754a1;
+    width: 180px;
+    height: 60px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
+
+
+
+.back {
+    background-color: #19232d;
+}
+
+.image-8 {
+    width: 70px;
+    height: 40px;
+}
+
+.google {
+    color: #959ead;
+    width: 50px;
+    height: 50px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 18px;
+    background-color: #202b36;
+    margin-right: 8px;
+    margin-bottom: 8px;
+
+}
+
+.colour {
+    color: #959ead;
+    font-size: 20px;
+}
+
+.colour-1 {
+    color: #959ead;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.google-1 {
+    color: #959ead;
+    width: 70px;
+    height: 50px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 18px;
+    background-color: #19232d;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    float: left;
+
+}
+
+.font-size-beside-icon {
+    font-size: 19px;
+    border-radius: 40px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-right: 30px;
+    padding-left: 18px;
+    background-color: #19232d;
+    margin-right: 8px;
+    margin-bottom: 8px;
+}
+
+.line {
+    background-color: #5a7184;
+    width: 80%;
+}
+
+.C {
+    margin-left: 50px;
+    color: #959ead;
+    border-style: solid;
+    border-color: #959ead;
+    width: 30px;
+    padding-left: 7px;
+    border-radius: 40px;
+    float: left;
+}
